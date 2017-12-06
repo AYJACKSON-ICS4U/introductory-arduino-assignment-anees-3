@@ -49,7 +49,7 @@ A screenshot of our actual bread board:
 
 _**November 15th**_ : 
 
->This may not be compeletely complete, butit may. Today I (Jason) added a bunch of things to the readme and repo. I added files so that I will no longer have to look through the computer to access code. I also added the handbok to the readme. I also was working on using miliseconds instead of delay. I have been told this way is better because delay shuts stuff down and can be frustrating in groups. I used milliseconds in this and understand this. I seaved this seperately and added the file with the end name "milliseconds".
+>This may not be compeletely complete, butit may. Today we added a bunch of things to the readme and repo. I added files so that I will no longer have to look through the computer to access code. I also added the handbok to the readme. I also was working on using miliseconds instead of delay. I have been told this way is better because delay shuts stuff down and can be frustrating in groups. I used milliseconds in this and understand this. I seaved this seperately and added the file with the end name "milliseconds".
 
 _**November 22nd**_ : 
 
@@ -59,4 +59,7 @@ _**November 29th**_ :
 
 >Unfortunately, this work period was probably the least productive of all... It's not that we didn't try to do anything, but that none of our attempts worked. We were attempting to get 6 LEDs working with 3 inputs on the board, as explained in the Issues and Projects tabs of this repository. We struggled a lot and still have not figured it out. Next week we will try to finish this.
 
+_**December 6th**_ : 
+
+>Today, we have transferred the old GitHub repository to this new GitHub Classroom domain. We also made a lot of edits on the repository's issues and projects, and put EVERYTHING on this page up to date. We have been trying to figure out our new millisecond bounce issue, which was never a problem before, but we are moving onto the 6 LEDs and we have made significant progress. A lot of random problems have been popping up here and there.
 
