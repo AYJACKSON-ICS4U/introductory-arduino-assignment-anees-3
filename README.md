@@ -61,5 +61,5 @@ _**November 29th**_ :
 
 _**December 6th**_ : 
 
->Today, we have transferred the old GitHub repository to this new GitHub Classroom domain. We also made a lot of edits on the repository's issues and projects, and put EVERYTHING on this page up to date. We have been trying to figure out our new millisecond bounce issue, which was never a problem before, but we are moving onto the 6 LEDs and we have made significant progress. A lot of random problems have been popping up here and there.
+>Today, we have transferred the old GitHub repository to this new GitHub Classroom domain. We also made a lot of edits on the repository's issues and projects, and put EVERYTHING on this page up to date. We have been trying to figure out our new millisecond bounce issue, which was never a problem before (which was later found out to be a glitch), but we are moving onto the 6 LEDs and we have made significant progress. A lot of random problems have been popping up here and there.
 
