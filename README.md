@@ -1,6 +1,6 @@
 # Arduino
 
-Created with love :heart: and hard work :metal:by @aaiss1 and @JNGUY5 :octocat:
+Created with love :heart: and hard work :metal:by @aaiss1 (Anees Aissaoui) and @JNGUY5 (Jason Nguyen) :octocat:
 
 ## Arduino Project Log 
 _**HANDBOOK FOR ARDUINO**_ : 
