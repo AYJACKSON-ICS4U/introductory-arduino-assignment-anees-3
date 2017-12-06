@@ -6,11 +6,12 @@ Created with love :heart: and hard work :metal:by @aaiss1 (Anees Aissaoui) and @
 _**HANDBOOK FOR ARDUINO**_ : 
   
 >https://docs.google.com/viewer?a=v&pid=sites&srcid=b2Nkc2IuY2F8YS15LWphY2tzb24taWNzNHV8Z3g6MzAyZTZhNjM1Njk1ODc4MA
-above is the link to a website... i think its in google drive. Anyways this is the arduino handbook, and will be very important and usefull when coidng or using arduino.
-## Setup/Don't Forget!
->Check the ports! Go to devices and printers, then go to the bottom and look at the port. Then go to arduino, click _tools_, then _Port:_, then make sure or change it so that the arduino port matches the computers listed port.
+> <-- This is the link to a website/file called Arduino Handbook, and it will be very important and useful when using an Arduino.
 
->Check the board type! Go to _tools_ under the toolbar, go and click on _board:_, and make sure you select the board type _nano_.
+## Setup/Don't Forget!
+>Check the ports! Go to devices and printers, then go to the bottom and look at the port (COMx). Then go to Arduino, click _Tools_, then _Port:_, then make sure to change it so that the Arduino port matches the computers listed port.
+
+>Check the board type! Go to _Tools_ under the toolbar, go and click on _Board:_, and make sure you select the board type _Arduino Nano_.
 
 >After following these steps, the code on the computer should work.
 
